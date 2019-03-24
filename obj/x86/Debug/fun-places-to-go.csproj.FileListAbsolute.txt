@@ -1,0 +1,6 @@
+/Users/andreotte/Projects/fun-places-to-go/fun-places-to-go/bin/Debug/fun-places-to-go.exe
+/Users/andreotte/Projects/fun-places-to-go/fun-places-to-go/bin/Debug/fun-places-to-go.pdb
+/Users/andreotte/Projects/fun-places-to-go/fun-places-to-go/obj/x86/Debug/fun-places-to-go.csprojAssemblyReference.cache
+/Users/andreotte/Projects/fun-places-to-go/fun-places-to-go/obj/x86/Debug/fun-places-to-go.csproj.CoreCompileInputs.cache
+/Users/andreotte/Projects/fun-places-to-go/fun-places-to-go/obj/x86/Debug/fun-places-to-go.exe
+/Users/andreotte/Projects/fun-places-to-go/fun-places-to-go/obj/x86/Debug/fun-places-to-go.pdb
