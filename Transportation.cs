@@ -11,6 +11,7 @@ namespace funplacestogo
             _people = people;
         }
 
+        //Push user's transportation option to an array based on user input
         public string TransportationFinder()
         {
             {

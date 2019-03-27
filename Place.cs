@@ -11,9 +11,9 @@ namespace funplacestogo
             _mood = mood;
         }
 
+        //Push user's mood and corresponding activity to an array based on user input
         public string[] ActivityFinder()
         {
-
             {
                 if (_mood == "1" || _mood == "action")
                 {
