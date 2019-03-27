@@ -66,9 +66,10 @@ namespace funplacestogo
             }
 
             //Tell the user what they are going to do this evening
-            Console.WriteLine("Okay if you’re in the mood for " + activityMessage[0, 0]  
+            Console.WriteLine("Okay, if you’re in the mood for " + activityMessage[0, 0]  
                                + ", then you should go " + activityMessage[0, 1]  
-                               + " and travel in " + activityMessage[1, 0] + "!");
+                               + " and travel in " + activityMessage[1, 0] + "!" 
+                               + " Goodbye!");
         }
     }
 }
