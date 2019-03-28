@@ -1,19 +1,15 @@
 ﻿<Properties StartupConfiguration="{6FF5C765-BDCF-4A1C-AA62-6D1543971105}|Default">
   <MonoDevelop.Ide.ItemProperties.fun-places-to-go PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Place.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../currency_format_converter/currency_format_converter/Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="Place.cs" Line="1" Column="1" />
-      <File FileName="Transportation.cs" Line="1" Column="1" />
+      <File FileName="../currency_format_converter/currency_format_converter/Program.cs" Line="34" Column="13" />
+      <File FileName="../currency_format_converter/currency_format_converter/CurrencyCalculator.cs" Line="1" Column="1" />
+      <File FileName="../currency_format_converter/currency_format_converter/FormattedCurrency.cs" Line="9" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="fun-places-to-go" expanded="True">
-            <Node name="fun-places-to-go" expanded="True">
-              <Node name="Place.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node />
         </State>
       </Pad>
     </Pads>
